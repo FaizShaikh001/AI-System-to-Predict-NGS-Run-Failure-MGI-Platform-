@@ -1,0 +1,5 @@
+{
+  "name": "MGI Predict",
+  "description": "AI/ML Predictive System for MGI DNBSEQ Run Failure Detection",
+  "requestFramePermissions": []
+}
